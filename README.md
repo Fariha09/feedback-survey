@@ -1,3 +1,6 @@
+<img width="1127" height="650" alt="Feedback survey" src="https://github.com/user-attachments/assets/1779fd46-07c2-427d-af37-47db14c7610c" />
+
+
 # Feedback Survey Application
 
 ## Overview
